@@ -1292,8 +1292,11 @@
     },
 	{
       "name": "Adultos",
+      "image": "",
+      "stations": [
        }
       ]
     }
   ]
 }
+        {
