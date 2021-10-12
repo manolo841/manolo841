@@ -1291,64 +1291,7 @@
       ]
     },
 	{
-      "name": "Adultos",
-      "image": "",
-      "stations": [
-        {
-          "name": "Playboy TV",
-          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/playboy.png",
-          "url": "https://freevip.xyz/live/playboy/index.m3u8",
-          "epgId": "PlayboyTV.TV"
-        },
-        {
-          "name": "Hot",
-          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/hot.png",
-          "url": "https://freevip.xyz/live/hot/index.m3u8",
-          "epgId": "Hot.TV"
-        },
-        {
-          "name": "Dorcel",
-          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/dorcel.png",
-          "url": "https://freevip.xyz/live/dorcell/index.m3u8",
-          "epgId": "Dorcel.TV"
-        },
-        {
-          "name": "Blue Hustler",
-          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/hustler.png",
-          "url": "https://freevip.xyz/live/blue_hustler/index.m3u8",
-          "epgId": "BlueHustler.TV"
-        },
-        {
-          "name": "Redlight",
-          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/redlight.png",
-          "url": "https://freevip.xyz/live/redlight/index.m3u8",
-          "epgId": "Redlight.TV"
-        },
-        {
-          "name": "Penthouse",
-          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/pent.png",
-          "url": "https://freevip.xyz/live/penthouse/index.m3u8",
-          "epgId": "Penthouse.TV"
-        },
-        {
-          "name": "Penthouse 1",
-          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/pent.png",
-          "url": "https://freevip.xyz/live/dusk/index.m3u8",
-          "epgId": "Penthouse1.TV"
-        },
-        {
-          "name": "Hustler",
-          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/hustler.png",
-          "url": "https://freevip.xyz/live/hustler/index.m3u8",
-          "epgId": "Hustler.TV"
-        },
-        {
-          "name": "Brazzers",
-          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/brazzers.png",
-          "url": "https://freevip.xyz/live/brazzers/index.m3u8",
-          "epgId": "Brazzers.TV"
-        },
-        {
+
         }
       ]
     }
