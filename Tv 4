@@ -363,13 +363,6 @@
           "epgId": "Hollywood.TV"
         },
         {
-          "name": "Dark",
-          "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/dark.png",
-          "url": "https://freevip.xyz/live/dark/index.m3u8",
-          "url1": "https://freevip.xyz/live/dark/index.m3u8",
-          "epgId": "Dark.TV"
-        },
-        {
           "name": "AMC",
           "image": "https://raw.githubusercontent.com/jeepeers/player/main/img/amc.png",
           "url": "https://freevip.xyz/live/amc/index.m3u8",
